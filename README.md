@@ -1,25 +1,25 @@
 # activate_virtualenv
 
-`activate_virtualenv` is a Python project that offers a context manager that allows users to easily activate a virtual
+`activate-virtualenv` is a Python project that offers a context manager that allows users to easily activate a virtual
 environments programatically. A virtual environment is an isolated Python environment that allows users to manage and
 install packages separately from their system Python installation. This project provides a simple and convenient way to
 activate and (automatically) deactivate a virtual environment and start working within it.
 
 ## Installation
 
-To install the `activate_virtualenv` package, you can use `pip`:
+To install the `activate-virtualenv` package, you can use `pip`:
 
 ```shell
-pip install activate_virtualenv
+pip install activate-virtualenv
 ```
 
 Or rye:
 
 ```shell
-rye install activate_virtualenv
+rye install activate-virtualenv
 ```
 
-Or anything else that downloads packages from [PyPI](https://pypi.org/project/activate_virtualenv/).
+Or anything else that downloads packages from [PyPI](https://pypi.org/project/activate-virtualenv/).
 
 ## Usage
 
@@ -89,5 +89,5 @@ This project is licensed under the MIT License. For more information, please ref
 ## Issues and Contributions
 
 If you encounter any issues or have suggestions for improvements, please feel free
-to [open an issue](https://github.com/usernein/activate_virtualenv/issues) or submit a pull request on
-the [GitHub repository](https://github.com/usernein/activate_virtualenv).
+to [open an issue](https://github.com/usernein/activate-virtualenv/issues) or submit a pull request on
+the [GitHub repository](https://github.com/usernein/activate-virtualenv).
