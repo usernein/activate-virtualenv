@@ -1,4 +1,4 @@
-# activate_virtualenv
+# activate-virtualenv
 
 `activate-virtualenv` is a Python project that offers a context manager that allows users to easily activate a virtual
 environments programatically. A virtual environment is an isolated Python environment that allows users to manage and
